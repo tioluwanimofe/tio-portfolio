@@ -1,6 +1,6 @@
 # Tio Adesanya — Portfolio (six views)
 
-<!-- Live site: add the Netlify URL here once it's deployed -->
+**Live site:** https://tio-portfolio.netlify.app/
 
 ![Terminal view of the portfolio](docs/screenshot.png)
 
@@ -48,4 +48,4 @@ python3 -m http.server 8000
 
 Connect this repo in Netlify with **no build command** and **publish directory `.`** (the repo root), or drag the folder onto Netlify Drop. The `_redirects` file is already set up.
 
-> Note: the asset filenames were restored to the exact case `index.html` expects (`index-_MDSei62.js`, `index-DaHQUvPQ.css`). The uploaded zip had them lower-cased, which breaks the page on case-sensitive hosts like Netlify.
+> Note: in this repo the asset filenames were restored to the exact case `index.html` expects (`index-_MDSei62.js`, `index-DaHQUvPQ.css`). The uploaded zip had them lower-cased, which breaks the page on case-sensitive hosts like Netlify.
